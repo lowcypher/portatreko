@@ -39,6 +39,7 @@ Este é o que o sistema se propõe.
 
 Autor: Mario Medeiros
 Site: https://www.mariomedeiros.eti.br
+
 Data: 2023-11-03
 Versão: 0.2
 
